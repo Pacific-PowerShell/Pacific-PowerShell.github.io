@@ -1,0 +1,18 @@
+title: Pacific PowerShell User Group
+
+description: >
+  Welcome to the Pacific PowerShell User Group!
+
+url: "https://Pacific-PowerShell.github.io"
+
+markdown: GFM
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-feed
+
+header_pages:
+  - posts/index.md
+  - about.md
+
+remote-theme: cayman
